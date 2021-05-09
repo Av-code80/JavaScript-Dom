@@ -18,4 +18,3 @@ Pure JavaScript,
 
 # Voici mon [Exercise à consulter :](https://av-code80.github.io/JavaScript-Dom/)
 
-![](https://github.com/Av-code80/Child-HealthProject-Persan/blob/main/img/bg3.jpg)
